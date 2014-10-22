@@ -5,7 +5,7 @@ from setuptools import setup
 
 version = '0.5.3'
 
-install_requires = ['setuptools', 'PIL']
+install_requires = ['setuptools', 'Pillow']
 test_requires = []
 extra_requires = {}
 long_description = '\n'.join([
